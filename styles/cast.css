@@ -11,10 +11,12 @@ body {
     background-color: #e0e0e0;   
 }
 
+
+
 .wrapper {
     max-width: 1200px;
     margin: 0 auto;
-    background: linear-gradient(to right, black, white);
+    background: linear-gradient(to right, black, grey);
     padding: 5px 10px;
 }
 
